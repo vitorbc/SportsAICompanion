@@ -1,0 +1,15 @@
+{
+  "sources": [{"id": "tactics", "title": "Serve & return analysis", "path": "../samples/sample-tennis/tactical-report.md", "kind": "Match analysis", "summary": "Return position, rally patterns & sample statistics"}],
+  "metrics": [
+    {"label": "First serves in", "value": "64%", "source_id": "tactics"},
+    {"label": "Winners", "value": "26", "source_id": "tactics"},
+    {"label": "Unforced errors", "value": "23", "source_id": "tactics"}
+  ],
+  "insights": [{"title": "Return position · Tactical adjustment", "text": "Djokovic moved back on second-serve returns to create more preparation time.", "source_id": "tactics"}],
+  "questions": ["Explain the return position", "Compare the serve statistics", "What is missing?"],
+  "missing_information": "Final score, break-point performance and point-by-point data are not available in this sample.",
+  "example": {
+    "question": "How did the return position change the rallies?",
+    "answer": "**More time on the return changed the first exchange.**\n\nIn this fictional example, Djokovic moved back on second-serve returns to give himself more preparation time. The notes suggest that deeper returns made Alcaraz’s first attacking shot more difficult. [1]\n\n**The tactical trade-off**\n\n- A deeper return position can create more time to prepare.\n- Alcaraz used drop shots when Djokovic was behind the baseline, with both successes and errors recorded. [1]\n\n**Interpretation:** this created a contest between depth and variation. Without point-by-point data, we cannot quantify which pattern was more effective."
+  }
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "asset": "teams/sport.png",
+    "page": "https://en.wikipedia.org/wiki/Sport_Club_do_Recife",
+    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/45/Sport_Club_Recife.svg/330px-Sport_Club_Recife.svg.png",
+    "file_page": "https://en.wikipedia.org/wiki/File:Sport_Club_Recife.svg",
+    "attribution": "Sport Club do Recife. Club-owned logo, used for identification in this local prototype.",
+    "license_url": ""
+  },
+  {
+    "asset": "teams/ceara.png",
+    "page": "https://en.wikipedia.org/wiki/Cear%C3%A1_Sporting_Club",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Cear%C3%A1_Sporting_Club_logo.svg/330px-Cear%C3%A1_Sporting_Club_logo.svg.png",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Cear%C3%A1_Sporting_Club_logo.svg",
+    "attribution": "Ceará Sporting Club. Public-domain logo per Wikimedia; club trademark.",
+    "license_url": ""
+  },
+  {
+    "asset": "players/alcaraz.jpg",
+    "page": "https://en.wikipedia.org/wiki/Carlos_Alcaraz",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Carlos_Alcaraz_-_240422_192324_%28cropped%29.jpg/330px-25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Carlos_Alcaraz_-_240422_192324_%28cropped%29.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File:25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Carlos_Alcaraz_-_240422_192324_%28cropped%29.jpg",
+    "attribution": "Barcex; crop by Hameltion. CC BY-SA 4.0. Thumbnail with circular CSS framing.",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "asset": "players/djokovic.jpg",
+    "page": "https://en.wikipedia.org/wiki/Novak_Djokovic",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Novak_Djokovic_Paris_2024_Olympic_Games_%28cropped%29.jpg/330px-Novak_Djokovic_Paris_2024_Olympic_Games_%28cropped%29.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File:Novak_Djokovic_Paris_2024_Olympic_Games_%28cropped%29.jpg",
+    "attribution": "Andymiah. CC BY-SA 4.0. Thumbnail with circular CSS framing.",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+]

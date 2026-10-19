@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {"id": "tactics", "title": "Tactical report", "path": "../samples/sample-football/tactical-report.md", "kind": "Match analysis", "summary": "Substitutions, positioning & player performance"},
+    {"id": "stats", "title": "Match statistics", "path": "../samples/sample-football/statistics.md", "kind": "Statistics", "summary": "Possession, shots & chance quality"}
+  ],
+  "metrics": [
+    {"label": "Possession", "value": "61%", "source_id": "stats"},
+    {"label": "Shots", "value": "12", "source_id": "stats"},
+    {"label": "xG", "value": "1.25", "source_id": "stats"}
+  ],
+  "insights": [{"title": "62′ · Shape change", "text": "A switch to 4–3–3 added width on the right.", "source_id": "tactics"}],
+  "questions": ["Evaluate the striker", "Explain the shape change", "What is missing?"],
+  "missing_information": "Final score, tracking data and the complete substitution list are not available in this sample.",
+  "example": {
+    "question": "Did the substitution improve our attack, or did we just have more possession?",
+    "answer": "**It changed where Sport could attack.**\n\nAt 62 minutes, Lucas Silva replaced André Costa. The fictional sample report describes a move to 4–3–3, with Lucas staying wide on the right. [1]\n\n**What the evidence suggests**\n\n- Right-sided box entries rose from 1 to 3 across the observed periods. [1]\n- Sport had 61% possession, but the xG gap was only 0.15. [2]\n\n**Interpretation:** the change may have improved access on the right. These figures alone cannot prove the substitution caused it."
+  }
+}

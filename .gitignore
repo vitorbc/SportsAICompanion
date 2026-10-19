@@ -1,0 +1,16 @@
+.venv/
+.venv-py314/
+.python/
+.uv-cache/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.local/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Developer-managed match reports and private evaluation questions.
+data/private/

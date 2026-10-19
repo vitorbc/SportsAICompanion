@@ -1,0 +1,70 @@
+{
+  "sources": [
+    {
+      "id": "doc-01",
+      "title": "01 · Match report and transitions",
+      "path": "../private/sport-recife-ceara/sport_recife_ceara_doc_01.txt",
+      "kind": "Match report"
+    },
+    {
+      "id": "doc-02",
+      "title": "02 · Manager post-match interview",
+      "path": "../private/sport-recife-ceara/sport_recife_ceara_doc_02.txt",
+      "kind": "Interview"
+    },
+    {
+      "id": "doc-03",
+      "title": "03 · Match statistics",
+      "path": "../private/sport-recife-ceara/sport_recife_ceara_doc_03.txt",
+      "kind": "Statistics"
+    },
+    {
+      "id": "doc-04",
+      "title": "04 · Possession and attacking structure",
+      "path": "../private/sport-recife-ceara/sport_recife_ceara_doc_04.txt",
+      "kind": "Analysis"
+    },
+    {
+      "id": "doc-05",
+      "title": "05 · Goals and substitution timeline",
+      "path": "../private/sport-recife-ceara/sport_recife_ceara_doc_05.txt",
+      "kind": "Event log"
+    },
+    {
+      "id": "doc-06",
+      "title": "06 · Ceara tactical report",
+      "path": "../private/sport-recife-ceara/sport_recife_ceara_doc_06.txt",
+      "kind": "Match report"
+    },
+    {
+      "id": "doc-07",
+      "title": "07 · Supporter reactions",
+      "path": "../private/sport-recife-ceara/sport_recife_ceara_doc_07.txt",
+      "kind": "Fan commentary"
+    },
+    {
+      "id": "doc-08",
+      "title": "08 · Scouting notes on width",
+      "path": "../private/sport-recife-ceara/sport_recife_ceara_doc_08.txt",
+      "kind": "Scouting analysis"
+    },
+    {
+      "id": "doc-09",
+      "title": "09 · Podcast on defensive transitions",
+      "path": "../private/sport-recife-ceara/sport_recife_ceara_doc_09.txt",
+      "kind": "Podcast excerpt"
+    },
+    {
+      "id": "doc-10",
+      "title": "10 · Disciplinary and substitution log",
+      "path": "../private/sport-recife-ceara/sport_recife_ceara_doc_10.txt",
+      "kind": "Match log"
+    }
+  ],
+  "questions": [
+    "What changed after the 62nd-minute substitution?",
+    "Why did possession not translate into a win?",
+    "Compare the two teams' chances."
+  ],
+  "missing_information": "The supplied documents do not name the substituted players or provide complete lineups. Dates are source dates; the exact fixture and source provenance have not been confirmed."
+}

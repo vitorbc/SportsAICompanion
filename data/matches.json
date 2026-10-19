@@ -1,0 +1,22 @@
+[
+  {
+    "id": "sample-football",
+    "title": "Sport Recife vs Ceará",
+    "sport": "football",
+    "participants": ["Sport Club do Recife", "Ceará"],
+    "sample": true,
+    "subtitle": "Football · Tactical study",
+    "participant_assets": ["teams/sport.png", "teams/ceara.png"],
+    "context_path": "context/sample-football.json"
+  },
+  {
+    "id": "sample-tennis",
+    "title": "Alcaraz vs Djokovic",
+    "sport": "tennis",
+    "participants": ["Carlos Alcaraz", "Novak Djokovic"],
+    "sample": true,
+    "subtitle": "Tennis · Tactical study",
+    "participant_assets": ["players/alcaraz.jpg", "players/djokovic.jpg"],
+    "context_path": "context/sample-tennis.json"
+  }
+]

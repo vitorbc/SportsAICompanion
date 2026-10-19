@@ -1,0 +1,70 @@
+{
+  "sources": [
+    {
+      "id": "doc-01",
+      "title": "01 · Contrasting styles and rally patterns",
+      "path": "../private/alcaraz-djokovic/alcaraz_djokovic_doc_01.txt",
+      "kind": "Match report"
+    },
+    {
+      "id": "doc-02",
+      "title": "02 · Alcaraz press conference",
+      "path": "../private/alcaraz-djokovic/alcaraz_djokovic_doc_02.txt",
+      "kind": "Interview"
+    },
+    {
+      "id": "doc-03",
+      "title": "03 · Djokovic press conference",
+      "path": "../private/alcaraz-djokovic/alcaraz_djokovic_doc_03.txt",
+      "kind": "Interview"
+    },
+    {
+      "id": "doc-04",
+      "title": "04 · Short and long rally outcomes",
+      "path": "../private/alcaraz-djokovic/alcaraz_djokovic_doc_04.txt",
+      "kind": "Analysis"
+    },
+    {
+      "id": "doc-05",
+      "title": "05 · Serve, break-point and net statistics",
+      "path": "../private/alcaraz-djokovic/alcaraz_djokovic_doc_05.txt",
+      "kind": "Statistics"
+    },
+    {
+      "id": "doc-06",
+      "title": "06 · Returns and net transitions",
+      "path": "../private/alcaraz-djokovic/alcaraz_djokovic_doc_06.txt",
+      "kind": "Match report"
+    },
+    {
+      "id": "doc-07",
+      "title": "07 · Podcast on serving mechanics",
+      "path": "../private/alcaraz-djokovic/alcaraz_djokovic_doc_07.txt",
+      "kind": "Podcast excerpt"
+    },
+    {
+      "id": "doc-08",
+      "title": "08 · Topspin and ball-striking analysis",
+      "path": "../private/alcaraz-djokovic/alcaraz_djokovic_doc_08.txt",
+      "kind": "Technical analysis"
+    },
+    {
+      "id": "doc-09",
+      "title": "09 · Supporter reactions",
+      "path": "../private/alcaraz-djokovic/alcaraz_djokovic_doc_09.txt",
+      "kind": "Fan commentary"
+    },
+    {
+      "id": "doc-10",
+      "title": "10 · Match conditions and supervision log",
+      "path": "../private/alcaraz-djokovic/alcaraz_djokovic_doc_10.txt",
+      "kind": "Match log"
+    }
+  ],
+  "questions": [
+    "How did rally length favor each player?",
+    "Compare serve and net statistics.",
+    "What evidence explains the return tactics?"
+  ],
+  "missing_information": "Documents 06–07 describe Djokovic's tiebreak execution as decisive, while document 10 records an Alcaraz victory including the third set; the intended interpretation needs clarification. Source provenance and historical accuracy have not been verified."
+}
