@@ -9,7 +9,8 @@ from src.core.models import Library, Match
 
 
 class LibraryRegistry:
-    def __init__(self, state_dir: Path):
+    def __init__(self, state_dir: Path, *, check_same_thread: bool):
+        self.check_same_thread = check_same_thread
         state_dir.mkdir(parents=True, exist_ok=True)
         self.path = state_dir / "libraries.sqlite3"
         with self._connect() as db:
@@ -25,7 +26,9 @@ class LibraryRegistry:
             )
 
     def _connect(self) -> sqlite3.Connection:
-        return sqlite3.connect(self.path, timeout=10)
+        return sqlite3.connect(
+            self.path, timeout=10, check_same_thread=self.check_same_thread
+        )
 
     def get(self, owner: str, match_id: str) -> Library | None:
         with self._connect() as db:
